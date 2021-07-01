@@ -1,0 +1,72 @@
+.image{
+    background-image: url('assets/images/Rectangle\ 169.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height:600px;
+}
+
+.texte-h2{
+    font-family: 'Dancing Script', cursive;
+    color:yellow;
+}
+
+.font-size{
+    font-size: 2.2em;
+}
+
+.font-police{
+    font-size: 4.5em;
+}
+
+.couleur-white{
+    color:white;
+    background-color: rgb(235, 235, 16);
+}
+
+.white{
+    color:white;
+}
+
+.couleur-gris{
+    background-color:rgb(224, 219, 219);
+}
+
+.text-color{
+    color:rgb(156, 138, 138);
+}
+
+.color{
+    color:rgb(61, 57, 57);
+}
+
+.faas{
+    font-size:3.2;
+}
+
+.mt-6{
+    margin-top: 4rem;
+}
+
+.footer {
+    background-color: #444444;
+    color: #FFFFFF;
+}
+.footer-title {
+    font-size: 16px;
+}
+
+.footer-links {
+    list-style-type: none;
+}
+
+.footer-links a {
+    color: #FFFFFF;
+    font-size: 14px;
+    text-decoration: none;
+}
+
+.footer-links a:hover {
+    color: #cccccc;
+    text-decoration: underline;
+    height: 1em;
+}

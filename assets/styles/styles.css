@@ -1,0 +1,133 @@
+.image{
+    background-image: url('file:///C:/Users/SIMPLON.CO/Documents/Dev/projet-fil-rouge/assets/images/paysage.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height:600px;
+}
+
+
+.texte-h2{
+    font-family: 'Dancing Script', cursive;
+    color:yellow;
+}
+
+.font-size{
+    font-size: 2.2em;
+}
+
+.font-police{
+    font-size: 4.5em;
+}
+
+.couleur-white{
+    color:white;
+    background-color: #FED136;
+}
+
+.white{
+    color:white;
+}
+
+.couleur-gris{
+    background-color:rgb(224, 219, 219);
+}
+
+.text-color{
+    color:rgb(156, 138, 138);
+}
+
+.color{
+    color:rgb(61, 57, 57);
+}
+
+.faas{
+    font-size:3.2;
+}
+
+.mt-6{
+    margin-top: 4rem;
+}
+
+.footer {
+    background-color: #444444;
+    color: #FFFFFF;
+}
+.footer-title {
+    font-size: 16px;
+}
+
+.footer-links {
+    list-style-type: none;
+}
+
+.footer-links a {
+    color: #FFFFFF;
+    font-size: 14px;
+    text-decoration: none;
+}
+
+.footer-links a:hover {
+    color: #cccccc;
+    text-decoration: underline;
+}
+
+.size{
+    font-size:1.8em;
+}
+
+.lien-vienmedecouvrir ,a{
+    text-decoration: none;
+    color:white;
+}
+
+
+.couleur-white:hover{
+background-image:url('https://dbdzm869oupei.cloudfront.net/img/alfombretaratoli/preview/21985.png');
+    
+}
+
+.color-white-nav{
+    color:white;
+    
+}
+
+.bordure:hover{
+    background-color:rgba(205, 209, 205,0.15);
+}
+
+
+.zoom-1:hover {
+    transform: scale(1.5); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
+    z-index: 1;
+  }
+
+  .zoom-2:hover {
+    transform: scale(1.5); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
+    z-index: 1;
+  }
+
+  .zoom-3:hover {
+    transform: scale(1.5); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
+    z-index: 1;
+  }
+
+  .zoom-4:hover {
+    transform: scale(1.5); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
+    z-index: 1;
+  }
+
+  .zoom-5:hover {
+    transform: scale(1.5); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
+    z-index: 1;
+  }
+
+  .zoom-6:hover {
+    transform: scale(1.5); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
+    z-index: 1;
+  }
+
+@media (max-width: 768px) {
+    .hide {
+        display: none;
+    }
+}

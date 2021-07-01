@@ -126,8 +126,9 @@ background-image:url('https://dbdzm869oupei.cloudfront.net/img/alfombretaratoli/
     z-index: 1;
   }
 
-@media (max-width: 768px) {
+@media (min-width: 960px) {
     .hide {
         display: none;
     }
+    
 }

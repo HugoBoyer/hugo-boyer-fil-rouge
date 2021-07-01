@@ -148,6 +148,10 @@ background-color:rgba(94, 88, 88, 0.25);
 
 
 
-@media (max-width: 576px) {
-   
+@media (max-width: 960px) {
+    .hide-artiste{
+        display:none;
+    }
+
+    
 }

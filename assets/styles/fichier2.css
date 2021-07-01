@@ -110,7 +110,7 @@
     width:70px;
     border-radius:50%;
     
-   
+    background:url('https://i.pinimg.com/originals/7f/8f/fb/7f8ffbd4cf5bffe86f08a088728c9d66.jpg') no-repeat center center/cover;
     
 }
 
@@ -119,8 +119,8 @@
     width:70px;
     border-radius:50%;
     
-    background:url('http://www.artettransparence.com/wp-content/uploads/Van-Gogh.jpg') no-repeat center center/cover;
-
+    background:url('https://media.ouest-france.fr/v1/pictures/MjAxMzA5MjNkOTQxMWVjZGYyMzk0ZjY4ZDM3YWQwYzcxZTAzOWI?width=320&height=180&focuspoint=50%2C25&cropresize=1&client_id=bpeditorial&sign=9b2936b2ac6af4de11e3dcfa15d3ee726fd84bbe64f8838000bf38130fcce99c') no-repeat center center/cover;
+    
     
 }
 
@@ -130,8 +130,7 @@
     width:70px;
     border-radius:50%;
     
-    background:url('file:///C:/Users/SIMPLON.CO/Documents/Dev/projet-fil-rouge/assets/images/11-26.jpg') no-repeat center center/cover;
-
+    background:url(' http://www.artettransparence.com/wp-content/uploads/Van-Gogh.jpg') no-repeat center center/cover;
     
 }
 

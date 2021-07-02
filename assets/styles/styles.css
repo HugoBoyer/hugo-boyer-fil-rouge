@@ -299,3 +299,56 @@ background-color:rgba(94, 88, 88, 0.25);
 .navbar-dark .navbar-nav .nav-link {
     color: #FFFFFF;
 }
+
+
+.rond-1{
+    height: 50px;
+    width:50px;
+    border:1px solid white;
+    border-radius:50%;
+    background: url('https://labreunion.fr/wp-content/uploads/2019/12/instagram-logo.png')no-repeat center/cover;
+    background-size: 2rem;
+    
+}
+
+
+.rond-2{
+    height: 50px;
+    width:50px;
+    border:1px solid white;
+    border-radius:50%;
+    background: url('https://bassin-arcachon.com/wp-content/uploads/2017/02/logo-facebook-blanc.png')no-repeat center/cover;
+    background-size: 2rem;
+
+}
+
+.rond-3{
+    height: 50px;
+    width:50px;
+    border:1px solid white;
+    border-radius:50%;
+    background: url('https://c2.lestechnophiles.com/www.numerama.com/wp-content/uploads/2016/03/pinterest.png?resize=230,230')no-repeat center/cover;
+    background-size: 2rem;
+
+}
+
+
+.rond-4{
+    height: 50px;
+    width:50px;
+    border:1px solid white;
+    border-radius:50%;
+    background: url('https://www.4wardproject.com/uploads/1/0/7/2/107290409/tiktok-logo_orig.png')no-repeat center/cover;
+    background-size: 2rem;
+
+}
+
+.rond-5{
+    height: 50px;
+    width:50px;
+    border:1px solid white;
+    border-radius:50%;
+    background: url('https://stock.flashmode.tn/wp-content/uploads/2020/06/white-youtube-logo-transparent-png-832.png')no-repeat center/cover;
+    background-size: 2rem;
+
+}
